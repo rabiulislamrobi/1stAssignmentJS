@@ -60,3 +60,4 @@ document.write(Math.round());
   var number =Math.random()*100;
   document.write(number);
 // asignment.js - GitHub Link 
+name:rabiulislamrobi
